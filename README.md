@@ -95,21 +95,17 @@ python predict.py
 
 ## 📸 Sample Results
 
-<p align="center">
-  <img src="results/img1.png" width="30%">
-  <img src="results/img2.png" width="30%">
-  <img src="results/img3.png" width="30%">
-</p>
+### 🧠 Tumor Detection Outputs
 
-<p align="center">
-  <img src="results/img4.png" width="30%">
-  <img src="results/img5.png" width="30%">
-  <img src="results/img6.png" width="30%">
-</p>
+![Result 1](results/img1.png)
+![Result 2](results/img2.png)
+![Result 3](results/img3.png)
 
-<p align="center">
-  <img src="results/img7.png" width="30%">
-</p>
+![Result 4](results/img4.png)
+![Result 5](results/img5.png)
+![Result 6](results/img6.png)
+
+![Result 7](results/img7.png)
 
 
 ## ⚠️ Challenges Faced
