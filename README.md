@@ -97,15 +97,13 @@ python predict.py
 
 ### 🧠 Tumor Detection Outputs
 
-![Result 1](results/img1.png)
-![Result 2](results/img2.png)
-![Result 3](results/img3.png)
-
-![Result 4](results/img4.png)
-![Result 5](results/img5.png)
-![Result 6](results/img6.png)
-
-![Result 7](results/img7.png)
+![Result 1](img1.png)
+![Result 2](img2.png)
+![Result 3](img3.png)
+![Result 4](img4.png)
+![Result 5](img5.png)
+![Result 6](img6.png)
+![Result 7](img7.png)
 
 
 ## ⚠️ Challenges Faced
