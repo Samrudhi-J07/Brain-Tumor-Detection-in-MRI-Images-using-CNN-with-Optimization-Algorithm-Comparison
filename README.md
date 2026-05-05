@@ -93,6 +93,25 @@ python predict.py
 
 ---
 
+## 📸 Sample Results
+
+<p align="center">
+  <img src="results/img1.png" width="30%">
+  <img src="results/img2.png" width="30%">
+  <img src="results/img3.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="results/img4.png" width="30%">
+  <img src="results/img5.png" width="30%">
+  <img src="results/img6.png" width="30%">
+</p>
+
+<p align="center">
+  <img src="results/img7.png" width="30%">
+</p>
+
+
 ## ⚠️ Challenges Faced
 
 * Incorrect dataset labeling (NO_tumor mixed with tumor classes)
