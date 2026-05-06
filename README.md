@@ -100,7 +100,11 @@ This video demonstrates brain tumor detection using YOLOv8 with real-time predic
 ▶️ [Watch Demo Video](https://drive.google.com/file/d/1TtrKXcuuq-LYJKKuvYo1N_CYdGbmjnyn/view?usp=sharing)
 
 
-## 📸 Sample Results
+### 🎯 Demo Highlights
+- Detects multiple tumor types
+- Real-time predictions
+- Bounding box visualization
+- Trained using Adam & SGD
 
 ## 📸 Sample Results
 
