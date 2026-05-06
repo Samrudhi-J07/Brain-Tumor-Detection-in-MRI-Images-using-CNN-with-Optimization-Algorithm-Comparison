@@ -93,6 +93,15 @@ python predict.py
 
 ---
 
+## 🎥 Project Demo
+
+This video demonstrates brain tumor detection using YOLOv8 with real-time predictions and bounding boxes.
+
+▶️ [Watch Demo Video](https://drive.google.com/file/d/1TtrKXcuuq-LYJKKuvYo1N_CYdGbmjnyn/view?usp=sharing)
+
+
+## 📸 Sample Results
+
 ## 📸 Sample Results
 
 ### 🧠 Tumor Detection Outputs
