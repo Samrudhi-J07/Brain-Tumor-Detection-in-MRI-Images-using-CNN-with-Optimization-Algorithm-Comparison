@@ -136,7 +136,7 @@ This video demonstrates brain tumor detection using YOLOv8 with real-time predic
 * Debugging model prediction issues
 
 ---
-
+Developed a CNN-based deep learning model for detecting brain tumors from MRI images and compared multiple optimization algorithms to improve model accuracy and performance.
 ## 🔮 Future Improvements
 
 * Increase dataset size for better accuracy
