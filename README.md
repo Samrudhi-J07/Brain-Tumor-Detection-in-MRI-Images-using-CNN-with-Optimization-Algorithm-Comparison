@@ -23,7 +23,7 @@ The system identifies different types of brain tumors and highlights them with b
 * Bounding box visualization with confidence scores
 * Comparison of Adam and SGD optimizers
 * Custom dataset training and evaluation
-
+* comparative analysis
 ---
 
 ## 🛠️ Tech Stack
